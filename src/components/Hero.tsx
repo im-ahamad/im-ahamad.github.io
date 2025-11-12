@@ -34,7 +34,11 @@ const Hero = () => {
 
           <div className="flex flex-wrap gap-4 justify-center pt-8">
             <Button asChild size="lg" className="gap-2">
-              <a href="mailto:anmdahamadullah@gmail.com">
+              <a
+                href="mailto:anmdahamadullah@gmail.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <Mail className="h-5 w-5" />
                 {t("hero.email")}
               </a>
