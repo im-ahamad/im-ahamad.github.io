@@ -4,23 +4,17 @@ import { useTranslation } from "react-i18next";
 
 const educationData = [
   {
-    degree: "BE of Artificial Intelligence",
-    institution: "Yunnan University",
-    session: "2024 - 2028",
-    board: "",
+    degree: "BE of Artificial Intelligence(AI)",
+    institution: "Yunnan University,(China)",
+    session: "2024 - 2027",
+    board: "Ministry of Education, PRC (China)",
   },
   {
-    degree: "HSC/Alim (Science)",
+    degree: "HSC/Alim, Science (Higher Mathematics)",
     institution: "Tamirul Millat Kamil Madrasha",
-    session: "2021 - 2022",
+    session: "2021 - 2023",
     board: "Bangladesh Madrasah Education Board",
-  },
-  {
-    degree: "SSC/Dakhil (Science)",
-    institution: "Konabakhail Fazil Madrasha",
-    session: "2019 - 2020",
-    board: "Bangladesh Madrasah Education Board",
-  },
+  },   
 ];
 
 const Education = () => {

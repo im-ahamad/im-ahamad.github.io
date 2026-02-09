@@ -8,12 +8,12 @@ const skillsData = [
   {
     category: "Programming Languages",
     icon: Code,
-    skills: ["C", "Python"],
+    skills: ["C", "Python", "JavaScript(JS)", "TypeScript(TS)"],
   },
   {
     category: "Libraries & Frameworks",
     icon: Code,
-    skills: ["NumPy", "Pandas", "Scikit-Learn"],
+    skills: ["NumPy", "Pandas", "Scikit-Learn", "React.js", "Next.js", "Vite.js",],
   },
   {
     category: "Databases & Tools",

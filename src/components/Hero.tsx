@@ -75,7 +75,7 @@ const Hero = () => {
           {/* Quick Contact */}
           <div className="flex items-center justify-center gap-2 text-sm text-muted-foreground pt-4">
             <Phone className="h-4 w-4" />
-            <span>+880 13043 46264</span>
+            <span>+8801570277410</span>
           </div>
         </div>
       </div>
